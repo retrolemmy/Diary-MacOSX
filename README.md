@@ -2,8 +2,9 @@
 
 A simple one-page-per-day journal for Mac OS X 10.4 Tiger and 10.5 Leopard,
 on PowerPC and Intel Macs. It's the sibling of the
-[classic Mac OS](https://github.com/retrolemmy/Diary) and
-[AmigaOS 3.2](https://github.com/retrolemmy/Diary-Amiga) versions, and like
+[classic Mac OS](https://github.com/retrolemmy/Diary),
+[AmigaOS 3.2](https://github.com/retrolemmy/Diary-Amiga) and
+[Windows 98](https://github.com/retrolemmy/Diary-Win98) versions, and like
 them it can keep its entries on a
 [Diary Server](https://github.com/retrolemmy/Diary-Server), so all your
 computers share one diary.
