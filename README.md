@@ -32,6 +32,16 @@ computers share one diary.
   it has one). Search then runs on the server, and if an entry was changed
   on another computer since you opened it, Diary asks before saving over it
 
+## Diary Server
+
+To share the entries between your computers, run
+[Diary Server](https://github.com/retrolemmy/Diary-Server) on a machine in
+your network, such as a RetroNAS or any small Linux box with Python 3.9 or
+later: download `diary_server.py` from its
+[latest release](https://github.com/retrolemmy/Diary-Server/releases/latest)
+and start it as its README describes. Diary works with Diary Server 1.0 or
+later. The same server also gives modern browsers a Diary web page.
+
 ## Building
 
 On Mac OS X 10.5 with Xcode 3.1 (or 10.4 with Xcode 2.5), in this folder:
