@@ -2,7 +2,8 @@
 
 A simple one-page-per-day journal for Mac OS X 10.4 Tiger and 10.5 Leopard,
 on PowerPC and Intel Macs. It's the sibling of the
-[classic Mac OS](https://github.com/retrolemmy/Diary),
+[classic Mac OS](https://github.com/retrolemmy/Diary) (68k Macs, and PowerPC
+Macs up to a G4 with Mac OS 9.2.2),
 [AmigaOS 3.2](https://github.com/retrolemmy/Diary-Amiga) and
 [Windows 98](https://github.com/retrolemmy/Diary-Win98) versions, and like
 them it can keep its entries on a
